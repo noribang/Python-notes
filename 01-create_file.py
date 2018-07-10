@@ -13,7 +13,7 @@ file.write("Why? Because we can.")
 # Close file.
 file.close()
 
-# 
+# Open file and read contents.
 readFile = open("testfile.txt", "r")
 
 # Read file and print.
